@@ -2,13 +2,13 @@
 
 This repository contains a minimal Nengo simulation using **SCTN neurons** to build a resonator driven by 4 phase-shifted input signals.
 
-## ✨ Features
+##  Features
 
 - Spiking resonator network based on the SCTN model
 - 4 phase-shifted sinusoidal input signals
 - Visualizes neuron spiking activity
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Create a virtual environment
 
